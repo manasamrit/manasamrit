@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasamrit
 - 👀 I’ve just dwelled into the world of code
-- 🌱 I’m currently learning HTML,CSS, JS, Python.
+- 🌱 I’m currently pursuing Python and SQL for data analysis.
 - 💞️ I’m looking to learn as much as possible
 
 
