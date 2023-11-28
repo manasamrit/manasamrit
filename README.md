@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas.</h1>
-<h3 align="center">- 👀 Dwelling into the world of code.</h3>
+<h3 align="center">- 👀 Dwelling into the world of Code and Product.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
 
